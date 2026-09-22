@@ -1,4 +1,4 @@
-# Code for "A weekend with verify_proof"
+# Code for "Verify_proof"
 
     export AXLE_API_KEY=...
     pip install axiom-axle aiohttp
